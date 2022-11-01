@@ -8,4 +8,4 @@ git it is the third one
 
 fuck u
 it is a new branch 
-this is what write in a workplace
+Creating a new branch is quick AND simple.
