@@ -9,5 +9,10 @@ git it is the third one
 fuck u
 it is a new branch 
 Creating a new branch is quick and simple.
+<<<<<<< HEAD
 i dont want to see it here
 fuck
+=======
+new info in dev1
+fuck this is a new one ,and i dont want to see it
+>>>>>>> refs/remotes/origin/master
