@@ -8,8 +8,4 @@ git it is the third one
 
 fuck u
 it is a new branch 
-<<<<<<< HEAD
-it very clear 
-=======
-this is what write in a workplace
->>>>>>> featurel
+Creating a new branch is quick & simple.
